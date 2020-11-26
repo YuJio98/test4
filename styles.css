@@ -1,0 +1,32 @@
+body{
+   background-color: rgba(180, 178, 178, 0.514) !important;
+}
+
+.jumbotron{
+    background-image: url('img/pic1.jpg');
+    max-width: 90%;
+    margin: auto;
+   
+}
+main .card{
+    max-width: 75% !important;
+    margin: auto;
+    padding: 20px;
+}
+.card1 {
+    margin: auto ;
+   
+}
+.card123{
+    border: none !important;
+    box-shadow: none !important;
+}
+section h5{
+    font-size: 30px;
+}
+.sevices{
+    height: 400px !important;
+    margin-top: 30px !important;
+    margin: 30px 15px !important;
+    text-align: center;
+}
